@@ -2,7 +2,7 @@
 
 This Project was creating a landing page by using flexbox! Using the properties that make a page responsive.
 
-#Challenges
+## Challenges
 
 Some of the challenges I've faced in this project were:
 + Understanding how Flexbox actually works
@@ -11,6 +11,6 @@ Some of the challenges I've faced in this project were:
 
 
 
-# Acknowldegements
+## Acknowldegements
 
 The Odin Project: [Landing Page](https://jimmyjimenez2400.github.io/LandingPageV2/)
